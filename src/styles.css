@@ -1,0 +1,28 @@
+.app {
+  font-family: sans-serif;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.form-container {
+  margin-top: 20px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.uk-button,
+.uk-card,
+.uk-input {
+  border-radius: 5px;
+}
+
+.uk-card {
+  width: 400px;
+  margin: 20px auto;
+}
+
+.uk-input {
+  width: 400px;
+  margin: 10px auto;
+  display: block;
+}
